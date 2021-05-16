@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  productjson: "https://cdn.shopify.com/s/files/1/0455/2176/4502/files/products.json",
 };
 
 /*
